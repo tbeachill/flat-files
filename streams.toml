@@ -5,7 +5,7 @@
 [[streams]]
   Name = "TEST STREAM 1"
   Platform = "TEST PLATFORM 1"
-  Date = "2024-03-02"
+  Date = "02/03/2024"
   Time = "19:00"
   Description = "TEST DESCRIPTION 1"
   URL = "https://www.twitch.tv/TEST1"
@@ -13,7 +13,7 @@
 [[streams]]
   Name = "TEST STREAM 2"
   Platform = "TEST PLATFORM 2"
-  Date = "2024-07-15"
+  Date = "15/07/2024"
   Time = "21:00"
   Description = "TEST DESCRIPTION 2"
   URL = "https://www.twitch.tv/TEST2"
@@ -21,7 +21,15 @@
 [[streams]]
   Name = "TEST STREAM 3"
   Platform = "TEST PLATFORM 3"
-  Date = "2024-01-15"
+  Date = "15/01/2024"
   Time = "21:00"
   Description = "TEST DESCRIPTION 3"
   URL = "https://www.twitch.tv/TEST3"
+
+[[streams]]
+  Name = "TEST STREAM 4"
+  Platform = "TEST PLATFORM 4"
+  Date = "17/01/2024"
+  Time = "21:00"
+  Description = "TEST DESCRIPTION 4"
+  URL = "https://www.twitch.tv/TEST4"
