@@ -3,14 +3,6 @@
 # The Streamer Awards, The Game Awards, Summer Game Fest, Future Games Show, Gamescom
 
 [[streams]]
-  Name = "TEST STREAM 1"
-  Platform = "TEST PLATFORM 1"
-  Date = "02/03/2024"
-  Time = "19:00"
-  Description = "TEST DESCRIPTION 1"
-  URL = "https://www.twitch.tv/TEST1"
-
-[[streams]]
   Name = "TEST STREAM 2"
   Platform = "TEST PLATFORM 2"
   Date = "15/07/2024"
@@ -33,3 +25,12 @@
   Time = "21:00"
   Description = "TEST DESCRIPTION 4"
   URL = "https://www.twitch.tv/TEST4"
+
+[[streams]]
+  ID = 1
+  Name = "TEST STREAM 1"
+  Platform = "TEST PLATFORM 1"
+  Date = "02/03/2024"
+  Time = "21:00"
+  Description = "TEST DESCRIPTION 1"
+  URL = "https://www.twitch.tv/TEST1"
