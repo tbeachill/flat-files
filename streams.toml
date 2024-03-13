@@ -1,6 +1,7 @@
 # times are UTC
 # dates are DD/MM/YYYY
 # times are HH:MM (24-hour clock)
+# Platforms: PC, Playstation, Xbox, Nintendo, VR, Awards
 # updates can be made to a row by specifying an ID
 # deletions can be made by specifying an ID and setting the "Delete" field to "true"
 
@@ -13,3 +14,10 @@
 #  Time = ""
 #  Description = ""
 #  URL = ""
+
+[[streams]]
+  Name = "Summer Game Fest"
+  Platform = "PC, Playstation, Xbox, Nintendo, VR"
+  Date = "07/06/2024"
+  Time = "21:00"
+  Description = "Get a first look at the most anticipated games and see what’s next from the video game industry at our 2 hour, cross-platform live showcase of game announcements, trailers and more."
