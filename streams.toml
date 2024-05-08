@@ -89,7 +89,7 @@
 
   #[[streams]]
   #  Name = "TactiCon"
-  #  Platform = ""
+  #  Platform = "d"
   #  Date = ""
   #  Time = ""
   #  Description = ""
