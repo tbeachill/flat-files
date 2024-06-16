@@ -1,7 +1,7 @@
 # times are UTC
 # dates are DD/MM/YYYY
 # times are HH:MM (24-hour clock)
-# Platforms: PC, Playstation, Xbox, Nintendo, VR, Awards
+# Platforms: PC, Playstation, Xbox, Nintendo
 # updates can be made to a row by specifying an ID
 # deletions can be made by specifying an ID and setting the "Delete" field to "true"
 
@@ -16,88 +16,8 @@
 #  URL = ""
 
 [[streams]]
-  Name = "ID@Xbox Showcase"
-  Platform = "Xbox"
-  Date = "29/04/2024"
-  Time = "17:00"
-  Description = "IGN is partnering with ID@Xbox to exclusively present the next ID@Xbox Showcase, which promises to feature some of the most exciting upcoming indie games from around the world, including Vampire Survivors, Dungeons of Hinterberg, 33 Immortals, Lost Records Bloom & Rage, and more."
-  URL = "https://www.youtube.com/watch?v=6w-1SqnXC8w"
-
-[[streams]]
-  Name = "INDIE Live Expo"
-  Platform = "PC"
-  Date = "25/05/2024"
-  Time = ""
-  Description = "INDIE Live Expo, Japan’s premiere online digital showcase series connecting indie game fans all over the world, returns. Serving as a gateway between indie scenes across the globe, INDIE Live Expo offers English, Japanese, and Chinese broadcasts."
-  URL = "https://www.twitch.tv/indie_live_expo_en"
-
-[[streams]]
-  Name = "Access-Ability Summer Showcase"
-  Platform = "PC"
-  Date = "07/06/2024"
-  Time = "15:00"
-  Description = "Every game shown will detail a selection of their accessibility settings offerings and accessible design choices, to make sure that gamers watching at home know with confidence if they’ll be able to play an exciting looking game that grabs their interest."
-  URL = "https://www.twitch.tv/LauraKBuzz"
-
-[[streams]]
-  Name = "Guerrilla Collective"
-  Platform = "PC, Playstation, Xbox, Nintendo, VR"
-  Date = "06/06/2024"
-  Time = "17:00"
-  Description = "Guerrilla Collective will share big new game announcements, reveals, trailer premieres, fresh gameplay and more."
-  URL = "https://www.twitch.tv/mediaindieexchange"
-
-[[streams]]
-  Name = "PC Gaming Show"
-  Platform = "PC"
-  Date = "09/06/2024"
-  Time = "20:00"
-  Description = " Join us for another round of world premieres, exclusive announcements, and developer interviews. Celebrating 10 years with 50+ games, exclusives and announcements."
-  URL = "https://www.twitch.tv/pcgamer"
-
-[[streams]]
-  Name = "Ubisoft Forward"
-  Platform = "PC, Playstation, Xbox, Nintendo, VR"
-  Date = "10/06/2024"
-  Time = ""
-  Description = "Join us live from Los Angeles for #UbiForward on June 10 for updates and upcoming releases!"
-  URL = ""
-
-  #[[streams]]
-  #  Name = "Day of the Devs 2024: Summer Game Fest Edition"
-  ##  Platform = ""
-  #  Date = ""
-  #  Time = ""
-  #  Description = ""
-  # URL = ""
-
-  #[[streams]]
-  #  Name = "Wholesome Direct"
-  #  Platform = ""
-  #  Date = ""
-  #  Time = ""
-  #  Description = ""
-  #  URL = ""
-
-  #[[streams]]
-  #  Name = "Women-Led Games Showcase"
-  #  Platform = ""
-  #  Date = ""
-  #  Time = ""
-  #  Description = ""
-  #  URL = ""
-
-  #[[streams]]
-  #  Name = "TactiCon"
-  #  Platform = "d"
-  #  Date = ""
-  #  Time = ""
-  #  Description = ""
-  #  URL = ""
-
-[[streams]]
   Name = "gamescom: Opening Night Live"
-  Platform = "PC, Playstation, Xbox, Nintendo, VR"
+  Platform = "PC, Playstation, Xbox, Nintendo"
   Date = "20/08/2024"
   Time = ""
   Description = "The spectacular ONL live show produced by Geoff Keighley returns for 2024."
