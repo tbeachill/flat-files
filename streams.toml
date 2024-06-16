@@ -16,9 +16,9 @@
 #  URL = ""
 
 [[streams]]
-  Name = "gamescom: Opening Night Live"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "20/08/2024"
-  Time = ""
-  Description = "The spectacular ONL live show produced by Geoff Keighley returns for 2024."
-  URL = "https://www.twitch.tv/gamescom"
+  Name = "Upload VR Showcase"
+  Platform = "PC, Playstation"
+  Date = "26/06/2024"
+  Time = "17:00"
+  Description = "We've got dozens of videos in hand for the UploadVR Summer Showcase featuring impressive new work from developers exploring funny, strange and wildly cool new ideas for headsets."
+  URL = "https://www.youtube.com/@Uploadvr/live"
