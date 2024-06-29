@@ -16,9 +16,13 @@
 #  URL = ""
 
 [[streams]]
-  Name = "Upload VR Showcase"
-  Platform = "PC, Playstation"
-  Date = "26/06/2024"
-  Time = "17:00"
-  Description = "We've got dozens of videos in hand for the UploadVR Summer Showcase featuring impressive new work from developers exploring funny, strange and wildly cool new ideas for headsets."
-  URL = "https://www.youtube.com/@Uploadvr/live"
+  Name = "THQ Nordic Showcase"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "02/08/2024"
+  Time = "19:00"
+  Description = "Our Digital Showcase 2024 will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
+  URL = "https://www.twitch.tv/thqnordic"
+
+[[streams]]
+  ID = 1
+  Time = "18:00"
