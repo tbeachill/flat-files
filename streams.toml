@@ -16,9 +16,9 @@
 #  URL = ""
 
 [[streams]]
-  Name = "THQ Nordic Showcase"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "02/08/2024"
-  Time = "19:00"
-  Description = "Our Digital Showcase 2024 will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
-  URL = "https://www.twitch.tv/thqnordic"
+  Name = "Capcom Next"
+  Platform = "PC, Playstation, Xbox"
+  Date = "01/07/2024"
+  Time = "22:00"
+  Description = "Your favorite Zombie Paradise is back from the dead! We have the surprise announcement of Dead Rising Deluxe Remaster. We'll also be providing updates about Kunitsu-Gami: Path of the Goddess, which launches on July 19, and RESIDENT EVIL 7 biohazard for iPhone/iPad/Mac at this digital event."
+  URL = "https://www.twitch.tv/capcomusa"
