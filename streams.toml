@@ -16,9 +16,33 @@
 #  URL = ""
 
 [[streams]]
-  Name = "Capcom Next"
-  Platform = "PC, Playstation, Xbox"
-  Date = "01/07/2024"
-  Time = "22:00"
-  Description = "Your favorite Zombie Paradise is back from the dead! We have the surprise announcement of Dead Rising Deluxe Remaster. We'll also be providing updates about Kunitsu-Gami: Path of the Goddess, which launches on July 19, and RESIDENT EVIL 7 biohazard for iPhone/iPad/Mac at this digital event."
-  URL = "https://www.twitch.tv/capcomusa"
+  Name = "VR Games Showcase"
+  Platform = "PC, Playstation, VR"
+  Date = "15/08/2024"
+  Time = "16:00"
+  Description = "Discover The Future Of Play. The VR Games Showcase is a blockbuster celebration of amazing new VR games and experiences from some of the industry’s most popular teams."
+  URL = "https://www.youtube.com/@VRGamesShowcase/live"
+
+[[streams]]
+  Name = "gamescom: Opening Night Live"
+  Platform = "PC, Playstation, VR"
+  Date = "20/08/2024"
+  Time = "18:00"
+  Description = "With the two-hour opening show Gamescom Opening Night Live, presenter Geoff Keighley will ring in Gamescom 2024."
+  URL = "https://www.twitch.tv/thegameawards"
+
+[[streams]]
+  Name = "Future Games Show @ gamescom"
+  Platform = "PC, Playstation, VR"
+  Date = "21/08/2024"
+  Time = ""
+  Description = "The Future Games Show (FGS), powered by GamesRadar, is a digital showcase of the most exciting games of 2024 and beyond. Each show will feature exclusive trailers, announcements, and deep dives on a variety of titles, from indie to AAA."
+  URL = "https://www.youtube.com/@FutureGamesShow/live"
+
+[[streams]]
+  Name = "THQ Nordic Digital Showcase"
+  Platform = "PC, Playstation, VR"
+  Date = "02/08/2024"
+  Time = "19:00"
+  Description = " THQ Nordic's Showcase is back! Our Digital Showcase 2024, airing exactly 3 months from now, will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
+  URL = "https://www.twitch.tv/thqnordic"
