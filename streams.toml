@@ -16,6 +16,7 @@
 #  URL = ""
 
 [[streams]]
+  ID = 1
   Name = "VR Games Showcase"
   Platform = "PC, Playstation, VR"
   Date = "15/08/2024"
@@ -24,25 +25,36 @@
   URL = "https://www.youtube.com/@VRGamesShowcase/live"
 
 [[streams]]
+  ID = 2
   Name = "gamescom: Opening Night Live"
-  Platform = "PC, Playstation, VR"
+  Platform = "PC, Playstation, VR, Xbox, Nintendo"
   Date = "20/08/2024"
   Time = "18:00"
   Description = "With the two-hour opening show Gamescom Opening Night Live, presenter Geoff Keighley will ring in Gamescom 2024."
   URL = "https://www.twitch.tv/thegameawards"
 
 [[streams]]
+  ID = 3
   Name = "Future Games Show @ gamescom"
-  Platform = "PC, Playstation, VR"
+  Platform = "PC, Playstation, VR, Xbox, Nintendo"
   Date = "21/08/2024"
-  Time = ""
+  Time = "20:00"
   Description = "The Future Games Show (FGS), powered by GamesRadar, is a digital showcase of the most exciting games of 2024 and beyond. Each show will feature exclusive trailers, announcements, and deep dives on a variety of titles, from indie to AAA."
   URL = "https://www.youtube.com/@FutureGamesShow/live"
 
 [[streams]]
+  ID = 4
   Name = "THQ Nordic Digital Showcase"
-  Platform = "PC, Playstation, VR"
+  Platform = "PC, Playstation, Xbox"
   Date = "02/08/2024"
   Time = "19:00"
-  Description = " THQ Nordic's Showcase is back! Our Digital Showcase 2024, airing exactly 3 months from now, will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
+  Description = "THQ Nordic's Showcase is back! Our Digital Showcase 2024, will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
   URL = "https://www.twitch.tv/thqnordic"
+
+[[streams]]
+  Name = "Civilization VII Gameplay Showcase"
+  Platform = "PC"
+  Date = "20/08/2024"
+  Time = "20:30"
+  Description = "Join us for the Civilization VII Gameplay Showcase. For more than 20 minutes, we’ll be sharing exclusive insights from the development team about this revolutionary new chapter in the franchise, including our vision for the game as well as its innovative new features."
+  URL = "https:/www.twitch.tv/FiraxisGames"
