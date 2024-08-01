@@ -52,9 +52,10 @@
   URL = "https://www.twitch.tv/thqnordic"
 
 [[streams]]
+  ID = 5
   Name = "Civilization VII Gameplay Showcase"
   Platform = "PC"
   Date = "20/08/2024"
   Time = "20:30"
   Description = "Join us for the Civilization VII Gameplay Showcase. For more than 20 minutes, we’ll be sharing exclusive insights from the development team about this revolutionary new chapter in the franchise, including our vision for the game as well as its innovative new features."
-  URL = "https:/www.twitch.tv/FiraxisGames"
+  URL = "https://www.twitch.tv/FiraxisGames"
