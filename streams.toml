@@ -43,15 +43,6 @@
   URL = "https://www.youtube.com/@FutureGamesShow/live"
 
 [[streams]]
-  ID = 4
-  Name = "THQ Nordic Digital Showcase"
-  Platform = "PC, Playstation, Xbox"
-  Date = "02/08/2024"
-  Time = "19:00"
-  Description = "THQ Nordic's Showcase is back! Our Digital Showcase 2024, will be full of world premiere announcements, updates for previously-announced games and might even hold some surprises!"
-  URL = "https://www.twitch.tv/thqnordic"
-
-[[streams]]
   ID = 5
   Name = "Civilization VII Gameplay Showcase"
   Platform = "PC"
@@ -59,3 +50,11 @@
   Time = "20:30"
   Description = "Join us for the Civilization VII Gameplay Showcase. For more than 20 minutes, we’ll be sharing exclusive insights from the development team about this revolutionary new chapter in the franchise, including our vision for the game as well as its innovative new features."
   URL = "https://www.twitch.tv/FiraxisGames"
+
+[[streams]]
+  Name = "PLAYISM Game Show"
+  Platform = "PC, Playstation, Nintendo"
+  Date = "08/08/2024"
+  Time = "11:00"
+  Description = "PLAYISM, Japan's oldest indie game publisher, will host the PLAYISM Game Show 2024.8.8, an online livestream showcasing announcements on nine new titles scheduled for release in the second of 2024 and beyond."
+  URL = "https://www.youtube.com/@ActiveGamingMedia/live"
