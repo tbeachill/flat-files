@@ -16,7 +16,6 @@
 #  URL = ""
 
 [[streams]]
-  ID = 1
   Name = "VR Games Showcase"
   Platform = "PC, Playstation, VR"
   Date = "15/08/2024"
@@ -25,7 +24,6 @@
   URL = "https://www.youtube.com/@VRGamesShowcase/live"
 
 [[streams]]
-  ID = 2
   Name = "gamescom: Opening Night Live"
   Platform = "PC, Playstation, VR, Xbox, Nintendo"
   Date = "20/08/2024"
@@ -34,7 +32,6 @@
   URL = "https://www.twitch.tv/thegameawards"
 
 [[streams]]
-  ID = 3
   Name = "Future Games Show @ gamescom"
   Platform = "PC, Playstation, VR, Xbox, Nintendo"
   Date = "21/08/2024"
@@ -43,7 +40,6 @@
   URL = "https://www.youtube.com/@FutureGamesShow/live"
 
 [[streams]]
-  ID = 5
   Name = "Civilization VII Gameplay Showcase"
   Platform = "PC"
   Date = "20/08/2024"
@@ -56,5 +52,5 @@
   Platform = "PC, Playstation, Nintendo"
   Date = "08/08/2024"
   Time = "11:00"
-  Description = "PLAYISM, Japan's oldest indie game publisher, will host the PLAYISM Game Show 2024.8.8, an online livestream showcasing announcements on nine new titles scheduled for release in the second of 2024 and beyond."
+  Description = "PLAYISM, Japan's oldest indie game publisher, will host the PLAYISM Game Show, an online livestream showcasing announcements on nine new titles scheduled for release in the second of 2024 and beyond."
   URL = "https://www.youtube.com/@ActiveGamingMedia/live"
