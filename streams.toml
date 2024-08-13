@@ -54,3 +54,11 @@
   Time = "11:00"
   Description = "PLAYISM, Japan's oldest indie game publisher, will host the PLAYISM Game Show, an online livestream showcasing announcements on nine new titles scheduled for release in the second of 2024 and beyond."
   URL = "https://www.youtube.com/@ActiveGamingMedia/live"
+
+[[streams]]
+  Name = "The Indie Horror Showcase"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "24/10/2024"
+  Time = ""
+  Description = "Launched in 2023 by the independent horror games publisher DreadXP, The Indie Horror Showcase is both an event and celebration of the the indie horror development community and the wide variety of creativity it represesnts."
+  URL = "https://www.youtube.com/@IGN/live"
