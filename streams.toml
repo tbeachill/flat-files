@@ -62,3 +62,11 @@
   Time = ""
   Description = "Launched in 2023 by the independent horror games publisher DreadXP, The Indie Horror Showcase is both an event and celebration of the the indie horror development community and the wide variety of creativity it represesnts."
   URL = "https://www.youtube.com/@IGN/live"
+
+[[streams]]
+  Name = "gamescom Awesome Indies"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "21/08/2024"
+  Time = "18:00"
+  Description = "Indie Arena Booth is back at gamescom 2024 with 160+ fantastic indie gems!"
+  URL = "https://www.twitch.tv/indiearenabooth"
