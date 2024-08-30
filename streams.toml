@@ -16,46 +16,6 @@
 #  URL = ""
 
 [[streams]]
-  Name = "VR Games Showcase"
-  Platform = "PC, Playstation, VR"
-  Date = "15/08/2024"
-  Time = "16:00"
-  Description = "Discover The Future Of Play. The VR Games Showcase is a blockbuster celebration of amazing new VR games and experiences from some of the industry’s most popular teams."
-  URL = "https://www.youtube.com/@VRGamesShowcase/live"
-
-[[streams]]
-  Name = "gamescom: Opening Night Live"
-  Platform = "PC, Playstation, VR, Xbox, Nintendo"
-  Date = "20/08/2024"
-  Time = "18:00"
-  Description = "With the two-hour opening show Gamescom Opening Night Live, presenter Geoff Keighley will ring in Gamescom 2024."
-  URL = "https://www.twitch.tv/thegameawards"
-
-[[streams]]
-  Name = "Future Games Show @ gamescom"
-  Platform = "PC, Playstation, VR, Xbox, Nintendo"
-  Date = "21/08/2024"
-  Time = "20:00"
-  Description = "The Future Games Show (FGS), powered by GamesRadar, is a digital showcase of the most exciting games of 2024 and beyond. Each show will feature exclusive trailers, announcements, and deep dives on a variety of titles, from indie to AAA."
-  URL = "https://www.youtube.com/@FutureGamesShow/live"
-
-[[streams]]
-  Name = "Civilization VII Gameplay Showcase"
-  Platform = "PC"
-  Date = "20/08/2024"
-  Time = "20:30"
-  Description = "Join us for the Civilization VII Gameplay Showcase. For more than 20 minutes, we’ll be sharing exclusive insights from the development team about this revolutionary new chapter in the franchise, including our vision for the game as well as its innovative new features."
-  URL = "https://www.twitch.tv/FiraxisGames"
-
-[[streams]]
-  Name = "PLAYISM Game Show"
-  Platform = "PC, Playstation, Nintendo"
-  Date = "08/08/2024"
-  Time = "11:00"
-  Description = "PLAYISM, Japan's oldest indie game publisher, will host the PLAYISM Game Show, an online livestream showcasing announcements on nine new titles scheduled for release in the second of 2024 and beyond."
-  URL = "https://www.youtube.com/@ActiveGamingMedia/live"
-
-[[streams]]
   Name = "The Indie Horror Showcase"
   Platform = "PC, Playstation, Xbox, Nintendo"
   Date = "24/10/2024"
@@ -64,9 +24,9 @@
   URL = "https://www.youtube.com/@IGN/live"
 
 [[streams]]
-  Name = "gamescom Awesome Indies"
+  Name = "RGG Summit 2024"
   Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "21/08/2024"
-  Time = "18:00"
-  Description = "Indie Arena Booth is back at gamescom 2024 with 160+ fantastic indie gems!"
-  URL = "https://www.twitch.tv/indiearenabooth"
+  Date = "20/09/2024"
+  Time = "10:00"
+  Description = "The RGG Summit is a yearly event that brings together the developers, publishers, and fans of the Yakuza and Judgment series."
+  URL = "https://www.youtube.com/live/uHui_T50w8M"
