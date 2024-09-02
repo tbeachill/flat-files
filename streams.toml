@@ -30,3 +30,11 @@
   Time = "10:00"
   Description = "The RGG Summit is a yearly event that brings together the developers, publishers, and fans of the Yakuza and Judgment series."
   URL = "https://www.youtube.com/live/uHui_T50w8M"
+
+[[streams]]
+  Name = "The Game Awards"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "12/12/2024"
+  Time = ""
+  Description = "The Game Awards 10th Anniversary broadcast from Peacock Theater in Los Angeles."
+  URL = "https://www.twitch.tv/thegameawards"
