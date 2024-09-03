@@ -38,3 +38,11 @@
   Time = ""
   Description = "The Game Awards 10th Anniversary broadcast from Peacock Theater in Los Angeles."
   URL = "https://www.twitch.tv/thegameawards"
+
+[[streams]]
+  Name = "The Horror Game Awards"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "14/12/2024"
+  Time = ""
+  Description = "The Horror Game Awards will be streaming LIVE for the THIRD TIME. Honouring the year's best games from the world of horror and showcasing all the video game scares we have to look forward to in the future."
+  URL = "https://www.youtube.com/@HorrorGameAwards/live"
