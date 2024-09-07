@@ -46,3 +46,27 @@
   Time = ""
   Description = "The Horror Game Awards will be streaming LIVE for the THIRD TIME. Honouring the year's best games from the world of horror and showcasing all the video game scares we have to look forward to in the future."
   URL = "https://www.youtube.com/@HorrorGameAwards/live"
+
+[[streams]]
+  Name = "INDIE Live Expo"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "07/12/2024"
+  Time = ""
+  Description = "DIE Live Expo, Japan’s premiere online digital showcase series connecting indie game fans all over the world, announces the return of INDIE Live Expo 2024.12.7."
+  URL = "https://www.youtube.com/@indieliveexpo/live"
+
+[[streams]]
+  Name = "INDIE Live Expo Awards"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "07/12/2024"
+  Time = ""
+  Description = "The annual INDIE Live Expo Awards will feature a panel of global games industry veterans bestowing accolades to critically acclaimed recent titles."
+  URL = "https://www.youtube.com/@indieliveexpo/live"
+
+[[streams]]
+  Name = "Xbox Tokyo Game Show 2024 Broadcast"
+  Platform = "PC, Xbox"
+  Date = "26/09/2024"
+  Time = ""
+  Description = " We warmly welcome players around the world to tune in as we share content from Xbox Game Studios, Activision, Blizzard Entertainment, and Bethesda. We’ll also showcase an exciting lineup of games from third-party partners primarily based in Japan and across Asia, including games coming to Xbox Game Pass."
+  URL = "https://www.youtube.com/@tokyogameshow/live"
