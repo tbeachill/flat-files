@@ -24,14 +24,6 @@
   URL = "https://www.youtube.com/@IGN/live"
 
 [[streams]]
-  Name = "RGG Summit 2024"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "20/09/2024"
-  Time = "10:00"
-  Description = "The RGG Summit is a yearly event that brings together the developers, publishers, and fans of the Yakuza and Judgment series."
-  URL = "https://www.youtube.com/live/uHui_T50w8M"
-
-[[streams]]
   Name = "The Game Awards"
   Platform = "PC, Playstation, Xbox, Nintendo"
   Date = "12/12/2024"
@@ -64,9 +56,49 @@
   URL = "https://www.youtube.com/@indieliveexpo/live"
 
 [[streams]]
-  Name = "Xbox Tokyo Game Show 2024 Broadcast"
-  Platform = "PC, Xbox"
-  Date = "26/09/2024"
+  Name = "NVIDIA @ CES 2025"
+  Platform = "PC"
+  Date = "07/01/2025"
+  Time = "01:30"
+  Description = "Tune in to the CES opening keynote by NVIDIA CEO Jensen Huang live in Las Vegas."
+  URL = "https://www.youtube.com/@NVIDIA/live"
+
+[[streams]]
+  Name = "PC Gaming Show"
+  Platform = "PC"
+  Date = "05/12/2024"
   Time = ""
-  Description = " We warmly welcome players around the world to tune in as we share content from Xbox Game Studios, Activision, Blizzard Entertainment, and Bethesda. We’ll also showcase an exciting lineup of games from third-party partners primarily based in Japan and across Asia, including games coming to Xbox Game Pass."
-  URL = "https://www.youtube.com/@tokyogameshow/live"
+  Description = "The PC Gaming Show is back, and it’s bringing a hefty sack of videogame magic when it hits this December 5. What have we got in our bag? Oh, you know, just a buffet of premieres, announcements, and interviews that bring out the best of the best of the best of PC gaming."
+  URL = "https://www.twitch.tv/pcgamer"
+
+  #[[streams]]
+  #  Name = "AMD @ CES 2025"
+  #  Platform = "PC"
+  #  Date = ""
+  #  Time = "
+  #  Description = ""
+  #  URL = "https://www.youtube.com/@AMD/live"
+
+  #[[streams]]
+  #  Name = "Day of the Devs: Game Awards Edition"
+  #  Platform = "PC, Playstation, Xbox, Nintendo"
+  #  Date = ""
+  #  Time = ""
+  #  Description = "We will be hosting a Day of the Devs digital-only event following the Game Awards in December, 2024."
+  #  URL = ""
+
+  #[[streams]]
+  #  Name = "Latin American Games Showcase: Game Awards Edition"
+  #  Platform = "PC, Playstation, Xbox, Nintendo"
+  #  Date = "12/12/2024"
+  #  Time = "12:00"
+  #  Description = "LAGS strives to be a platform with great visibility for the games developed in Latin America or by Latin American teams around the world. Our next showcase will take place on December in collaboration with The Game Awards."
+  #  URL = ""
+
+  #[[streams]]
+  #  Name = "Access-Ability Winter Showcase"
+  #  Platform = "PC, Playstation, Xbox, Nintendo"
+  #  Date = "12/12/2024"
+  #  Time = ""
+  #  Description = "The Access-Ability Summer Showcase is aiming to become twice annual with the introduction of a Winter Showcase. "
+  #  URL = ""
