@@ -16,89 +16,73 @@
 #  URL = ""
 
 [[streams]]
-  Name = "The Indie Horror Showcase"
+  Name = "Summer Game Fest"
   Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "24/10/2024"
-  Time = ""
-  Description = "Launched in 2023 by the independent horror games publisher DreadXP, The Indie Horror Showcase is both an event and celebration of the the indie horror development community and the wide variety of creativity it represesnts."
-  URL = "https://www.youtube.com/@IGN/live"
+  Date = "06/06/2025"
+  Time = "21:00"
+  Description = ""
+  URL = ""
 
 [[streams]]
-  Name = "The Game Awards"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "12/12/2024"
-  Time = ""
-  Description = "The Game Awards 10th Anniversary broadcast from Peacock Theater in Los Angeles."
-  URL = "https://www.twitch.tv/thegameawards"
-
-[[streams]]
-  Name = "The Horror Game Awards"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "14/12/2024"
-  Time = ""
-  Description = "The Horror Game Awards will be streaming LIVE for the THIRD TIME. Honouring the year's best games from the world of horror and showcasing all the video game scares we have to look forward to in the future."
-  URL = "https://www.youtube.com/@HorrorGameAwards/live"
+  Name = "Marathon Gameplay Reveal Showcase"
+  Platform = "PC, Playstation, Xbox"
+  Date = "12/04/2025"
+  Time = "17:00"
+  Description = "Become a Runner in Bungie’s new sci-fi PvP extraction shooter."
+  URL = "https://www.twitch.tv/marathonthegame"
 
 [[streams]]
   Name = "INDIE Live Expo"
   Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "07/12/2024"
-  Time = ""
+  Date = "13/04/2025"
+  Time = "09:00"
+  Description = "An information filled program for all the indie gamers around the world! In this program, we will be introducing the hottest news of more than 100 indie games!"
+  URL = "https://www.youtube.com/watch?v=iQM26fwUmY0"
+
+[[streams]]
+  Name = "Mario Kart World Direct"
+  Platform = "Nintendo"
+  Date = "17/04/2025"
+  Time = "13:00"
   Description = "INDIE Live Expo, Japan’s premiere online digital showcase series connecting indie game fans all over the world, announces the return of INDIE Live Expo 2024.12.7."
-  URL = "https://www.youtube.com/@indieliveexpo/live"
+  URL = "https://www.youtube.com/@NintendoAmerica/live"
 
 [[streams]]
-  Name = "INDIE Live Expo Awards"
+  Name = "Galaxies Gaming Showcase"
   Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "07/12/2024"
-  Time = ""
-  Description = "The annual INDIE Live Expo Awards will feature a panel of global games industry veterans bestowing accolades to critically acclaimed recent titles."
-  URL = "https://www.youtube.com/@indieliveexpo/live"
+  Date = "17/04/2025"
+  Time = "19:00"
+  Description = "The Galaxies games showcase is a vibrant new event that leans in to everything that makes Twitch a great place to discover exciting new games! See you in chat."
+  URL = "https://www.twitch.tv/galaxiesshow"
 
 [[streams]]
-  Name = "NVIDIA @ CES 2025"
+  Name = "Star Wars Strategy Game Showcase"
   Platform = "PC"
-  Date = "07/01/2025"
-  Time = "01:30"
-  Description = "Tune in to the CES opening keynote by NVIDIA CEO Jensen Huang live in Las Vegas."
-  URL = "https://www.youtube.com/@NVIDIA/live"
+  Date = "19/04/2025"
+  Time = "06:30"
+  Description = "Join Bit Reactor, along with Respawn Entertainment and Lucasfilm Games, for a first look at a new Star Wars turn-based tactics game."
+  URL = ""
+
+[[streams]]
+  Name = "Six One Indie Showcase"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "22/05/2025"
+  Time = ""
+  Description = "The PC Gaming Show is back, and it’s bringing a hefty sack of videogame magic when it hits this December 5. What have we got in our bag? Oh, you know, just a buffet of premieres, announcements, and interviews that bring out the best of the best of the best of PC gaming."
+  URL = "https://www.youtube.com/@SixOneIndie/live"
+
+[[streams]]
+  Name = "Xbox Games Showcase & The Outer Worlds 2 Direct"
+  Platform = "PC, Xbox"
+  Date = "08/06/2025"
+  Time = "17:00"
+  Description = "Our livestream will bring you everything you’ll need to know about what’s next for Xbox, no matter where in the world you’re watching. Immediately following Showcase, The Outer Worlds 2 Direct will bring you inside the walls of Obsidian Entertainment, revealing new gameplay, details, and developer insights."
+  URL = "https://www.twitch.tv/Xbox"
 
 [[streams]]
   Name = "PC Gaming Show"
   Platform = "PC"
-  Date = "05/12/2024"
+  Date = "08/06/2025"
   Time = ""
-  Description = "The PC Gaming Show is back, and it’s bringing a hefty sack of videogame magic when it hits this December 5. What have we got in our bag? Oh, you know, just a buffet of premieres, announcements, and interviews that bring out the best of the best of the best of PC gaming."
+  Description = "The PC Gaming Show will return this year with another blockbuster broadcast."
   URL = "https://www.twitch.tv/pcgamer"
-
-  #[[streams]]
-  #  Name = "AMD @ CES 2025"
-  #  Platform = "PC"
-  #  Date = ""
-  #  Time = "
-  #  Description = ""
-  #  URL = "https://www.youtube.com/@AMD/live"
-
-  #[[streams]]
-  #  Name = "Day of the Devs: Game Awards Edition"
-  #  Platform = "PC, Playstation, Xbox, Nintendo"
-  #  Date = ""
-  #  Time = ""
-  #  Description = "We will be hosting a Day of the Devs digital-only event following the Game Awards in December, 2024."
-  #  URL = ""
-
-  #[[streams]]
-  #  Name = "Latin American Games Showcase: Game Awards Edition"
-  #  Platform = "PC, Playstation, Xbox, Nintendo"
-  #  Date = "12/12/2024"
-  #  Time = "12:00"
-  #  Description = "LAGS strives to be a platform with great visibility for the games developed in Latin America or by Latin American teams around the world. Our next showcase will take place on December in collaboration with The Game Awards."
-  #  URL = ""
-
-  #[[streams]]
-  #  Name = "Access-Ability Winter Showcase"
-  #  Platform = "PC, Playstation, Xbox, Nintendo"
-  #  Date = "12/12/2024"
-  #  Time = ""
-  #  Description = "The Access-Ability Summer Showcase is aiming to become twice annual with the introduction of a Winter Showcase. "
-  #  URL = ""
