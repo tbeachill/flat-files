@@ -20,8 +20,16 @@
   Platform = "PC, Playstation, Xbox, Nintendo"
   Date = "06/06/2025"
   Time = "21:00"
-  Description = ""
-  URL = ""
+  Description = "Summer Game Fest is going to be back, giving you a two-hour showcase packed with game reveals, trailers, and industry announcements."
+  URL = "https://www.twitch.tv/thegameawards"
+
+[[streams]]
+  Name = "The Triple-i Initiative"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "10/04/2025"
+  Time = "16:00"
+  Description = "The Triple-i Initiative returns with 35+ announcements in 45+ minutes. No ads, no hosts - just games. Tune in for world premieres, gameplay reveals & launch dates."
+  URL = "https://www.youtube.com/watch?v=rnNhA7vLgZ0"
 
 [[streams]]
   Name = "Marathon Gameplay Reveal Showcase"
