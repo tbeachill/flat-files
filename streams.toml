@@ -16,81 +16,25 @@
 #  URL = ""
 
 [[streams]]
-  Name = "Summer Game Fest"
+  Name = "Future Games Show Summer Edition"
+  Platform = "PC, Playstation, Xbox, Nintendo"
+  Date = "07/06/2025"
+  Time = ""
+  Description = "Mark your calendars, friends – the Future Games Show Summer Showcase returns on Saturday, June 7! Featuring: World premieres, Exclusive trailers + Game demos."
+  URL = "https://www.youtube.com/@FutureGamesShow/live"
+
+[[streams]]
+  Name = "Day of the Devs: Summer Game Fest Edition"
   Platform = "PC, Playstation, Xbox, Nintendo"
   Date = "06/06/2025"
-  Time = "21:00"
-  Description = "Summer Game Fest is going to be back, giving you a two-hour showcase packed with game reveals, trailers, and industry announcements."
+  Time = "23:00"
+  Description = "A look at upcoming indie games from the non-profit Day of the Devs."
   URL = "https://www.twitch.tv/thegameawards"
 
 [[streams]]
-  Name = "The Triple-i Initiative"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "10/04/2025"
-  Time = "16:00"
-  Description = "The Triple-i Initiative returns with 35+ announcements in 45+ minutes. No ads, no hosts - just games. Tune in for world premieres, gameplay reveals & launch dates."
-  URL = "https://www.youtube.com/watch?v=rnNhA7vLgZ0"
-
-[[streams]]
-  Name = "Marathon Gameplay Reveal Showcase"
+  Name = "The Elder Scrolls IV: Oblivion Remaster Showcase"
   Platform = "PC, Playstation, Xbox"
-  Date = "12/04/2025"
-  Time = "17:00"
-  Description = "Become a Runner in Bungie’s new sci-fi PvP extraction shooter."
-  URL = "https://www.twitch.tv/marathonthegame"
-
-[[streams]]
-  Name = "INDIE Live Expo"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "13/04/2025"
-  Time = "09:00"
-  Description = "An information filled program for all the indie gamers around the world! In this program, we will be introducing the hottest news of more than 100 indie games!"
-  URL = "https://www.youtube.com/watch?v=iQM26fwUmY0"
-
-[[streams]]
-  Name = "Mario Kart World Direct"
-  Platform = "Nintendo"
-  Date = "17/04/2025"
-  Time = "13:00"
-  Description = "INDIE Live Expo, Japan’s premiere online digital showcase series connecting indie game fans all over the world, announces the return of INDIE Live Expo 2024.12.7."
-  URL = "https://www.youtube.com/@NintendoAmerica/live"
-
-[[streams]]
-  Name = "Galaxies Gaming Showcase"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "17/04/2025"
-  Time = "19:00"
-  Description = "The Galaxies games showcase is a vibrant new event that leans in to everything that makes Twitch a great place to discover exciting new games! See you in chat."
-  URL = "https://www.twitch.tv/galaxiesshow"
-
-[[streams]]
-  Name = "Star Wars Strategy Game Showcase"
-  Platform = "PC"
-  Date = "19/04/2025"
-  Time = "06:30"
-  Description = "Join Bit Reactor, along with Respawn Entertainment and Lucasfilm Games, for a first look at a new Star Wars turn-based tactics game."
-  URL = ""
-
-[[streams]]
-  Name = "Six One Indie Showcase"
-  Platform = "PC, Playstation, Xbox, Nintendo"
-  Date = "22/05/2025"
-  Time = ""
-  Description = "The PC Gaming Show is back, and it’s bringing a hefty sack of videogame magic when it hits this December 5. What have we got in our bag? Oh, you know, just a buffet of premieres, announcements, and interviews that bring out the best of the best of the best of PC gaming."
-  URL = "https://www.youtube.com/@SixOneIndie/live"
-
-[[streams]]
-  Name = "Xbox Games Showcase & The Outer Worlds 2 Direct"
-  Platform = "PC, Xbox"
-  Date = "08/06/2025"
-  Time = "17:00"
-  Description = "Our livestream will bring you everything you’ll need to know about what’s next for Xbox, no matter where in the world you’re watching. Immediately following Showcase, The Outer Worlds 2 Direct will bring you inside the walls of Obsidian Entertainment, revealing new gameplay, details, and developer insights."
-  URL = "https://www.twitch.tv/Xbox"
-
-[[streams]]
-  Name = "PC Gaming Show"
-  Platform = "PC"
-  Date = "08/06/2025"
-  Time = ""
-  Description = "The PC Gaming Show will return this year with another blockbuster broadcast."
-  URL = "https://www.twitch.tv/pcgamer"
+  Date = "22/04/2025"
+  Time = "15:00"
+  Description = "Announcement showcase for the remaster of The Elder Scrolls IV: Oblivion."
+  URL = "https://www.twitch.tv/bethesda"
